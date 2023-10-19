@@ -8,18 +8,6 @@ This project is a Python script that allows you to download specific files relat
 
 To run this project, you need to have Python installed on your system.
 
-## Installation
-
-1. Clone the repository from GitHub: [repository URL]
-
-2. Navigate to the project directory.
-
-3. Install the required dependencies by running the following command:
-
-```
-pip install -r requirements.txt
-```
-
 ## Usage
 
 To run the script, open a terminal or command prompt and navigate to the project directory.
@@ -52,19 +40,11 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 
 Feel free to customize and expand upon this project according to your needs.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 This project was inspired by the need to download specific SGX derivatives files efficiently.
 
-[Optional: Add any acknowledgments or credits to individuals or resources that assisted with the development of the project.]
-
 ## Disclaimer
-
-[Include any disclaimers or legal notices as necessary.]
 
 Happy downloading! 😄📂
 
